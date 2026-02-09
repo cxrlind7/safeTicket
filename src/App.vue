@@ -422,7 +422,7 @@ O en: ${window.location.origin}
             class="card bg-white p-4 rounded-lg shadow-sm border-l-4 border-indigo-500 hover:shadow-lg transition-transform transform hover:-translate-y-1">
             <div class="flex justify-between items-start">
               <span class="text-xs font-bold uppercase px-2 py-1 bg-indigo-100 text-indigo-700 rounded">Feb {{ b.dia
-                }}</span>
+              }}</span>
               <span class="text-lg font-bold text-gray-800">${{ b.precio }}</span>
             </div>
             <h3 class="mt-2 font-semibold text-gray-700">{{ b.zona }}</h3>
@@ -469,7 +469,7 @@ O en: ${window.location.origin}
     <!-- FOOTER / AVISO DE PRIVACIDAD -->
     <footer class="bg-gray-800 text-gray-400 py-8 px-4 mt-8">
       <div class="max-w-4xl mx-auto text-sm">
-        <h4 class="text-white font-bold mb-4 uppercase">Aviso de Privacidad Simplificado</h4>
+        <h4 class="text-white font-bold mb-4 uppercase">Aviso de Privacidad</h4>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
           <div>
             <p class="mb-2"><strong class="text-gray-300">Finalidad:</strong> Los datos de contacto facilitados se
