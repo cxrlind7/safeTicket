@@ -389,7 +389,7 @@ onMounted(() => {
 
         <!-- CONFIG TAB -->
         <div v-else-if="activeTab === 'config'" class="p-4 bg-gray-50 rounded-lg border border-gray-200">
-            <h3 class="text-lg font-bold text-gray-800 mb-4">Confíguración Global</h3>
+            <h3 class="text-lg font-bold text-gray-800 mb-4">Configuración Global</h3>
 
             <div class="bg-white p-6 rounded shadow-sm border">
                 <label class="block text-sm font-bold text-indigo-900 mb-2">Palabra Secreta del Grupo</label>
